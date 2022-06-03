@@ -1,5 +1,13 @@
 # Paramount Capital Group Borrower Portal
 
+##Requirements
+Customization of an exisitng ASP.NET web portal to manage loan information and payments through a proprietary system. We need:
+  * Adding additional functionality updating back-end database information
+  * Customizing the user experience from existing code
+  * Adding two-factor authentication
+  * Adding "chat" functionality
+  * Integration with 3rd-party software for payments
+
 ## Overview
 This project is an ASP.NET Core Web Application 
 All database queries will be made via a proprietary API through a statically typed C# .NET Standard 2.0 library.
