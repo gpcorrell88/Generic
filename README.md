@@ -1,6 +1,6 @@
 # Paramount Capital Group Borrower Portal
 
-##Requirements
+## Requirements
 Customization of an exisitng ASP.NET web portal to manage loan information and payments through a proprietary system. We need:
   * Adding additional functionality updating back-end database information
   * Customizing the user experience from existing code
